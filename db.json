@@ -8,7 +8,7 @@
      "version": "1.0.1",
      "title": "Luiz Anselmo",
      "phone": "82996703421",
-     "image": "url"
+     "image": "url",
      "isEnableLogin": false,
      "isBottomNavVisible": true,
    }
