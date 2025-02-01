@@ -78,7 +78,7 @@
       "isEnableLogin": false,
       "isBottomNavVisible": true
     },
-        {
+    {
       "id": 13,
       "name": "meusservico",
       "description": "meusservico",
@@ -88,6 +88,19 @@
       "phone": "82999174016",
       "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
       "category": "Designer",
+      "isEnableLogin": false,
+      "isBottomNavVisible": true
+    },
+    {
+      "id": 13,
+      "name": "meusservico",
+      "description": "meusservico",
+      "status": "development",
+      "version": "1.0.1",
+      "title": "Luciano",
+      "phone": "82988887592",
+      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+      "category": "Pintor",
       "isEnableLogin": false,
       "isBottomNavVisible": true
     }
