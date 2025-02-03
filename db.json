@@ -90,6 +90,45 @@
       "category": "Designer",
       "isEnableLogin": false,
       "isBottomNavVisible": true
+    },
+    {
+      "id": 16,
+      "name": "meusservico",
+      "description": "meusservico",
+      "status": "development",
+      "version": "1.0.1",
+      "title": "Luiz",
+      "phone": "82996703421",
+      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+      "category": "Encanador",
+      "isEnableLogin": false,
+      "isBottomNavVisible": true
+    },
+    {
+      "id": 17,
+      "name": "meusservico",
+      "description": "meusservico",
+      "status": "development",
+      "version": "1.0.1",
+      "title": "Luiz",
+      "phone": "82996703421",
+      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+      "category": "Encanador",
+      "isEnableLogin": false,
+      "isBottomNavVisible": true
+    },
+    {
+      "id": 18,
+      "name": "meusservico",
+      "description": "meusservico",
+      "status": "development",
+      "version": "1.0.1",
+      "title": "Isac",
+      "phone": "82994448105",
+      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+      "category": "Encanador",
+      "isEnableLogin": false,
+      "isBottomNavVisible": true
     }
   ],
   "profile": {
