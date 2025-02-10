@@ -149,6 +149,21 @@
       "category": "Encanador",
       "isEnableLogin": false,
       "isBottomNavVisible": true
+    },
+    {
+      "id": 19,
+      "name": "meusservico",
+      "description": "meusservico",
+      "status": "Inativo",
+      "version": "1.0.1",
+      "title": "Rosângela Barbosa",
+      "dataCad": "10/02/2025",
+      "totaldeservicos": "0",
+      "phone": "82996865889",
+      "image": "https://sitemeusservicos.vercel.app/perfilapp/rosangela.jpg",
+      "category": "Serviços Gerais",
+      "isEnableLogin": false,
+      "isBottomNavVisible": true
     }
   ],
   "profile": {
