@@ -164,6 +164,51 @@
       "category": "Serviços Gerais",
       "isEnableLogin": false,
       "isBottomNavVisible": true
+    },
+    {
+      "id": 20,
+      "name": "meusservico",
+      "description": "meusservico",
+      "status": "Ativo",
+      "version": "1.0.1",
+      "title": "Allan deyvid",
+      "dataCad": "20/02/2025",
+      "totaldeservicos": "0",
+      "phone": "83991749666",
+      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+      "category": "Serviços Gerais",
+      "isEnableLogin": false,
+      "isBottomNavVisible": true
+    },
+    {
+      "id": 21,
+      "name": "meusservico",
+      "description": "meusservico",
+      "status": "Ativo",
+      "version": "1.0.1",
+      "title": "Allan deyvid",
+      "dataCad": "20/02/2025",
+      "totaldeservicos": "0",
+      "phone": "83991749666",
+      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+      "category": "Faxineira",
+      "isEnableLogin": false,
+      "isBottomNavVisible": true
+    },
+    {
+      "id": 21,
+      "name": "meusservico",
+      "description": "meusservico",
+      "status": "Ativo",
+      "version": "1.0.1",
+      "title": "Allan deyvid",
+      "dataCad": "20/02/2025",
+      "totaldeservicos": "0",
+      "phone": "83991749666",
+      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+      "category": "Diarista",
+      "isEnableLogin": false,
+      "isBottomNavVisible": true
     }
   ],
   "profile": {
