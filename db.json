@@ -209,6 +209,21 @@
       "category": "Diarista",
       "isEnableLogin": false,
       "isBottomNavVisible": true
+    },
+    {
+      "id": 22,
+      "name": "meusservico",
+      "description": "meusservico",
+      "status": "Ativo",
+      "version": "1.0.1",
+      "title": "Matheus Trindade",
+      "dataCad": "01/02/2025",
+      "totaldeservicos": "20",
+      "phone": "82993837081",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczM2r-7Ef7IWPMd9FWl440_WWmnuiRkEFRetVp4Yc-HwRdYFaH7eL0EbvfkS1zHz0nxOAo75IplqJUi7vlM82DMQ1KKfkTf8uOXpgrdQL1cPEGkmIBypKrFQ0F2eZcrgDCiZVbjOZ-Bb0xUea8Hxu2Y=w432-h553-s-no-gm?authuser=0",
+      "category": "Designer",
+      "isEnableLogin": false,
+      "isBottomNavVisible": true
     }
   ],
   "profile": {
