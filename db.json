@@ -224,6 +224,14 @@
       "category": "Designer",
       "isEnableLogin": false,
       "isBottomNavVisible": true
+    },
+    {
+      "id": 23,
+      "name": "cria_app",
+      "description": "Cria App",
+      "status": "production",
+      "version": "1.0.0",
+      "url": "https://macaibainformatica.com.br/"
     }
   ],
   "profile": {
