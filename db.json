@@ -227,7 +227,7 @@
     },
     {
       "id": 23,
-      "name": "cria_app",
+      "name": "criaappofc",
       "description": "Cria App",
       "status": "production",
       "version": "1.0.0",
