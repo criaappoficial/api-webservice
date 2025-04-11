@@ -239,7 +239,7 @@
       "description": "umbler",
       "status": "development",
       "version": "1.0.1",
-      "url": "https://app.oxemenu.com.br/come_bem#promocoes",
+      "url": "https://app.oxemenu.com.br/delivery_ta_chovendo_hamburguer",
       "isEnableLogin": false,
       "isBottomNavVisible": true,
       "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
