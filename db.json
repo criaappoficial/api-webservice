@@ -232,6 +232,41 @@
       "status": "production",
       "version": "1.0.0",
       "url": "https://lanselmo.github.io/lifez_pg_manutencao/lifez.html"
+    },
+    {
+      "id": 24,
+      "name": "umbler",
+      "description": "umbler",
+      "status": "development",
+      "version": "1.0.1",
+      "url": "https://samsolei.lojavirtualnuvem.com.br/",
+      "isEnableLogin": false,
+      "isBottomNavVisible": true,
+      "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
+      "menu": [
+        {
+          "url": "https://samsolei.lojavirtualnuvem.com.br/",
+          "label": "Home",
+          "image": "botao-home"
+        },
+        {
+          "url": "https://samsolei.lojavirtualnuvem.com.br/produtos/",
+          "target": "_blank",
+          "label": "Produtos",
+          "image": "filtro"
+        },
+        {
+          "url": "https://samsolei.lojavirtualnuvem.com.br/quem-somos/",
+          "label": "Empresa",
+          "image": "pessoa"
+        },
+        {
+          "url": "https://samsolei.lojavirtualnuvem.com.br/kits/",
+          "target": "_blank",
+          "label": "Beleza",
+          "image": "sacolas-de-compras"
+        }
+      ]
     }
   ],
   "profile": {
